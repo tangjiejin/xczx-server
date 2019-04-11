@@ -1,0 +1,9 @@
+server:
+  port: 31001
+spring:
+  application:
+    name: xc-service-cms
+  data:
+    mongodb:
+      uri: mongodb://tangjiejin:123456@localhost:27017
+      database: xc_cms
